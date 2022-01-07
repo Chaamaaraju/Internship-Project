@@ -140,7 +140,7 @@ Container item_two() {
         Container(
           alignment: Alignment.centerLeft,
           padding: EdgeInsets.fromLTRB(20, 10, 10, 5),
-          child: Text('Grinding Machine',
+          child: Text('turing Machine',
               style: GoogleFonts.poppins(
                 fontWeight: FontWeight.bold,
                 fontSize: 26,
