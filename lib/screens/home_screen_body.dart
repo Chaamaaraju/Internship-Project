@@ -462,7 +462,7 @@ Container inverntory_m() {
                       children: <Widget>[
                         item_one(),
                         item_two(),
-                        item_one(),
+                        item_three(),
                         item_one(),
                       ],
                     ),
